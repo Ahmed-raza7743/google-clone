@@ -1,7 +1,7 @@
 import  { useState, useEffect} from 'react'
 import API_KEY from './keys'
 
-const CONTEXT_KEY="d59e42b33286ca6fd"
+const CONTEXT_KEY="YOUR-KEY"
 
 const useGoogleSearch =(term) => {// in this file useGoogleSearch.js file we had created a custom hook
     const [data, setData]=useState(null)// when era is a input this hook is called
