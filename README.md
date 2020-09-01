@@ -5,3 +5,7 @@ used redux or react-router-dom
 used google search api
 deployment in firebase
 
+
+"used material-ui for icons and material-ui/cores"
+
+
