@@ -9,3 +9,12 @@ deployment in firebase
 "used material-ui for icons and material-ui/cores"
 
 
+
+IN /pages/keys.js you have to add your own api key
+
+"to get your own api key goto "https://cse.google.com/cse/create/new"
+
+
+
+
+
